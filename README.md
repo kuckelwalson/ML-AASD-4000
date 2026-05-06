@@ -6,3 +6,5 @@ Recommended Resources:
 2. Python for Data Analysis - Wes McKinney
 3. Python Essential Reference - David Beazley
 4. Learn Python the Hard Way - Zed Shaw
+
+5. 
