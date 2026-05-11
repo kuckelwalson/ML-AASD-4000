@@ -53,10 +53,10 @@ def save_file(text):
 		os.mkdir('./scraped_articles')
 	name = url.split("/")[-1]
 	print(name)
-	fname = f'scraped_articles/{name}.txt'
+	fname = f'task1_python.txt'
 	
 	# write a file using with (2 lines)
-	with open(f'scraped_articles/{name}.txt', "a") as file:
+	with open(fname, "a") as file:
 		file.write(text)
 
 
